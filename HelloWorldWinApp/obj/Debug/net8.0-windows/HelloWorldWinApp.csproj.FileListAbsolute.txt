@@ -1,0 +1,14 @@
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\bin\Debug\net8.0-windows\HelloWorldWinApp.exe
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\bin\Debug\net8.0-windows\HelloWorldWinApp.deps.json
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\bin\Debug\net8.0-windows\HelloWorldWinApp.runtimeconfig.json
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\bin\Debug\net8.0-windows\HelloWorldWinApp.dll
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\bin\Debug\net8.0-windows\HelloWorldWinApp.pdb
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.AssemblyInfoInputs.cache
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.AssemblyInfo.cs
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.csproj.CoreCompileInputs.cache
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.dll
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\refint\HelloWorldWinApp.dll
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.pdb
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\HelloWorldWinApp.genruntimeconfig.cache
+C:\Users\maharshi\donet-poc\HelloWorldWinApp\obj\Debug\net8.0-windows\ref\HelloWorldWinApp.dll
